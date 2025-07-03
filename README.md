@@ -1,6 +1,6 @@
 Project Title: Sustainable Autonomous Device for River Waste Management
 
-This project addresses the critical issue of plastic pollution in rivers by developing a sustainable autonomous device designed to collect and segregate river waste. The system integrates three major mechanisms: the Flapper, Air Blow, and Ballistic Separator. The Flapper mechanism is controlled using servo motors and IR sensors. The Air Blow mechanism comprises an ESC (Electronic Speed Controller), BLDC motor, propeller, and a servo connector. A conveyor belt, driven by four DC motors, is used to collect and transport waste. As waste reaches the top of the belt, a gate mechanism is activated, guided by two Proximity Capacitive (PC) sensors.
+This project addresses the critical issue of plastic pollution in rivers by developing a sustainable autonomous device designed to collect and segregate river waste. The system integrates three major mechanisms: the Flapper, Air Blow, and Scott Russel. The Flapper mechanism is controlled using servo motors and IR sensors. The Air Blow mechanism comprises an ESC (Electronic Speed Controller), BLDC motor, propeller, and a servo connector. A conveyor belt, driven by four DC motors, is used to collect and transport waste. As waste reaches the top of the belt, a gate mechanism is activated, guided by two Proximity Capacitive (PC) sensors.
 
 PC-1 detects plastic waste based on color and density.
 PC-2 identifies non-plastic waste.
