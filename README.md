@@ -32,5 +32,5 @@ Materials Used:
 Rubber, Aluminum Sheets, Steel, Glass Fiber, 3D-Printed Flappers
 
 
-                                                                  MODEL DESIGN
+                                                          MODEL DESIGN
 ![Image](https://github.com/user-attachments/assets/b601e140-f7b8-4dcf-a4d0-dcb4f81867d1)
